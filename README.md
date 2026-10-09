@@ -6,7 +6,7 @@
 เปิดใช้: https://kttwatt.github.io/carm-simulator/
 ฉบับภาษาอังกฤษ: https://kttwatt.github.io/carm-simulator/?lang=en (หรือกดปุ่ม EN มุมขวาบนของแถบรายการ)
 
-หน้าเดียว (`index.html`) กับ three.js r128 (`vendor/three-r128`, MIT license) ต้นฉบับอยู่ใน carm-live (`public/carm-simulator.html`)
+หน้าเดียว (`index.html`) กับ three.js r128 (`vendor/three-r128`, MIT license) ต้นฉบับอยู่ใน carm-live (`public/carm-simulator.html`) ต่างกันที่ลิงก์ "‹ หน้าแรก" ซึ่งมีเฉพาะในต้นฉบับ
 
 ## ลิขสิทธิ์
 
